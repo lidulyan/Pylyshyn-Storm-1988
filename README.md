@@ -3,11 +3,11 @@
 A submission to the experiment coding competition "MARVIN" organised by Think Cognitive Think Science.
 
 ### Materials
-See description of the first experiment in the paper of Pylyshyn & Storm (1988) pp. 181-184.
+See a paper of Pylyshyn & Storm (1988, pp. 181-184) for a description of the first experiment.
 
 The libraries from PsychoPy2 v1.85.2 were used (Pierce, 2009).
 
-The code was written in python 2.3.0.
+The code was written in Python 2.3.0.
 
 ### References
 1. Peirce JW (2009) Generating stimuli for neuroscience using PsychoPy. Front. Neuroinform. 2:10. doi:10.3389/neuro.11.010.2008
